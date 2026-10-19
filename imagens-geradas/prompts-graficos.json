@@ -1,0 +1,62 @@
+[
+  {
+    "id": "G01-fundo-topografico",
+    "prompt": "Crie um fundo abstrato minimalista horizontal para uma página de estética e bem-estar. Use base pervinca muito clara próxima de#D6DAEB, uma região azul-gelo clara próxima de#CEDFED e uma grande luminosidade branca difusa no centro. Sobre o fundo, desenhe apenas linhas brancas extremamente finas, suaves e contínuas, como curvas topográficas concêntricas organicamente deformadas. As curvas devem envolver uma área central de repouso, sem um círculo perfeito e sem parecer ondas de água ou impressões digitais. Baixo contraste, grandes espaçamentos, atmosfera aérea e quase branca, sem textura granulada, objetos ou vinheta escura. Não desenhe retratos, texto, logotipo, botões nem cards. Componha no formato1358:610, em alta resolução. Use a captura de referência, se anexada, para reproduzir a distribuição das curvas e a intensidade da luz. A saída é um frame estático de referência, não substitui a animação procedural do site."
+  },
+  {
+    "id": "G02-logo-althea",
+    "prompt": "Crie somente um wordmark com a palavra exata “Althea”, em escrita cursiva conectada equivalente à fonte Dancing Script no peso 700, sem ícone adicional. Use inicial A maiúscula, letras restantes minúsculas, inclinação fluida para a direita, contraste suave de traço e aparência caligráfica limpa, seguindo o wordmark de referência se anexado. Cor sólida #333333 sobre fundo realmente transparente com canal alfa. Não adicione sublinhado, floreio extra, moldura, sombra, slogan ou outras palavras. Deixe margens pequenas e equilibradas. Esta imagem serve apenas como referência visual; a implementação final deve usar Dancing Script 700 em texto para preservar a geometria do original."
+  },
+  {
+    "id": "G03-icone-skin-health",
+    "prompt": "Crie um ícone vetorial minimalista de saúde da pele, em canvas quadrado transparente. Desenhe um pequeno círculo vazio na parte superior e, abaixo, duas folhas curvas que se abrem para os lados e convergem numa base central, como um broto abstrato acolhedor. Use apenas contorno de espessura visual uniforme, curvas arredondadas e cor lavanda-cinza muito clara próxima de#D6DAEB. Sem preenchimento sólido nas folhas, sem sombra, gradiente, brilho, texto ou círculo externo. Preserve a leveza e as proporções do glifo de referência se anexado. Mantenha bastante margem em torno do símbolo. O resultado é um esboço; para réplica exata, usar o vetor original do serviço Skin Health."
+  },
+  {
+    "id": "G04-icone-aesthetic-care",
+    "prompt": "Crie um ícone de beleza em desenho linear minimalista sobre fundo totalmente transparente. Desenhe um único contorno abstrato de parte de um rosto: arco suave da sobrancelha/testa, um olho simples com pálpebra arredondada e uma linha longa e fluida que sugira a ponte e a ponta do nariz, voltada para a direita. Não desenhe um rosto completo nem uma cabeça fechada. Use traço lavanda-cinza muito claro próximo de#D6DAEB, espessura uniforme, pontas e curvas suaves, sem preenchimento, sombra ou gradiente. Composição quadrada, centralizada e arejada, sem texto, logotipo ou moldura. Siga o glifo de referência do serviço Aesthetic Care se anexado, sem acrescentar cílios decorativos ou detalhes de maquiagem."
+  },
+  {
+    "id": "G05-icone-wellness",
+    "prompt": "Crie um símbolo linear abstrato de bem-estar sobre canvas quadrado transparente: um pequeno círculo vazio suspenso acima de duas folhas curvas assimétricas, com hastes que se encontram na base, sugerindo pessoa e planta de forma muito sutil. A folha esquerda deve subir de forma mais vertical e a direita abrir suavemente para o lado. Use um único traço lavanda-cinza muito claro próximo de#D6DAEB, curvas arredondadas e pouco detalhe. Sem preenchimento, textura, sombra, gradiente, texto ou moldura. Preserve margens amplas e a proporção do ícone de referência se anexado. Não aplique acabamento3Dnem aparência de desenho à mão irregular; a linguagem é vetorial, limpa e leve."
+  },
+  {
+    "id": "G06-icone-consultation",
+    "prompt": "Crie um ícone vetorial minimalista formado por uma única espiral aberta, de aproximadamente duas voltas e meia, centralizada em canvas quadrado totalmente transparente. O centro deve ser pequeno e a curva aumentar progressivamente até a abertura externa, com traço contínuo suave e pontas arredondadas. Use lavanda-cinza muito claro próximo de#D6DAEB, sem preenchimento nem variação decorativa de cor. Mantenha aparência calma e orgânica, sem simetria mecânica exagerada, mas com desenho limpo. Sem sombra, gradiente, textura, texto ou círculo de fundo. Siga a orientação da abertura e o espaçamento do ícone do serviço Personal Consultation da referência, se anexado."
+  },
+  {
+    "id": "G07-icone-care-plans",
+    "prompt": "Crie um ícone vetorial de flor de lótus muito simples, em canvas quadrado transparente. Desenhe uma pétala central vertical em forma de gota pontuda arredondada, duas pétalas oblíquas intermediárias e duas folhas/pétalas inferiores abertas para os lados, todas convergindo suavemente na base central. Use apenas linhas lavanda-cinza muito claras próximas de#D6DAEB, espessura uniforme e curvas limpas, sem preenchimento ou sombreado. A flor deve ser compacta, centrada e amplamente cercada por espaço vazio. Sem caule longo, água, mãos, texto, moldura, textura ou gradiente. Se o glifo original estiver anexado, siga exatamente seu número de pétalas, proporções e aberturas."
+  },
+  {
+    "id": "G08a-avaliacao-verde",
+    "prompt": "Crie uma faixa gráfica de avaliação com cinco quadrados verdes idênticos alinhados horizontalmente, em fundo transparente. Cada quadrado deve usar cor sólida #05B67A e conter uma estrela branca de cinco pontas, centrada, com a mesma geometria em todos os cinco. Proporção de cada quadrado 1:1, intervalo entre quadrados equivalente a 3 unidades para lado 30. Sem arredondamento dos quadrados, sem sombra, brilho, gradiente, texto ou número de avaliações. O objetivo é uma faixa geométrica limpa para interface. Para precisão absoluta, implementar quadrados e estrelas em SVG/CSS com as medidas fornecidas."
+  },
+  {
+    "id": "G08b-trustpoint",
+    "prompt": "Crie um pequeno elemento de marca para uma interface: estrela sólida verde#05B67A à esquerda e a palavra exata “TrustPoint” à direita, em sans-serif escura, peso médio/semibold, sem slogan. Mantenha a estrela e o texto alinhados verticalmente e com distância curta. Fundo realmente transparente, sem caixa de cor, sombra, gradiente ou textura. Não escrevaTrustpilotnem inclua marcas adicionais. Siga a referência anexada se disponível. A implementação final deve usar texto e vetor para a geometria e a tipografia exatas."
+  },
+  {
+    "id": "G08c-estrelas-laranja",
+    "prompt": "Crie somente cinco estrelas sólidas de cinco pontas, idênticas, alinhadas horizontalmente, em cor uniforme#FFA600 sobre fundo transparente. Use formato de estrela simples e limpo, sem quadrado ou círculo de fundo, sem brilho, sombra, gradiente, contorno, texto ou numeral. Cada estrela deve ocupar aproximadamente16×17 unidades no resultado final, com espaçamento visual mínimo e alinhamento constante. Gere em alta resolução se necessário e preserve transparência. Para réplica exata, substituir o raster pelas estrelas SVG originais."
+  },
+  {
+    "id": "G09a-instagram",
+    "prompt": "Crie somente um ícone de Instagram em estilo de contorno leve equivalente ao Phosphor InstagramLogo: quadrado de cantos arredondados, círculo central e pequeno ponto no canto superior direito. Cor cinza próxima de#777B89, canvas quadrado transparente, sem fundo colorido, preenchimento fotográfico, sombra, gradiente ou texto. Mantenha proporções adequadas para 24×24 pixels e siga o vetor de referência se anexado."
+  },
+  {
+    "id": "G09b-threads",
+    "prompt": "Crie somente o símbolo de Threads em estilo de contorno leve equivalente ao Phosphor ThreadsLogo: forma contínua arredondada característica, centralizada em canvas quadrado transparente. Cor cinza próxima de#777B89, sem círculo externo acrescentado, fundo colorido, sombra, gradiente ou texto. Mantenha boa leitura em 24×24 pixels e preserve a geometria do vetor de referência se anexado; não substitua por uma letra “a” redesenhada livremente."
+  },
+  {
+    "id": "G09c-facebook",
+    "prompt": "Crie somente um ícone de Facebook equivalente ao Phosphor FacebookLogo em traço leve, com o “f” característico no contexto circular do glifo de referência. Cor cinza próxima de#777B89, fundo transparente, canvas quadrado, sem azul de marca, sombra, gradiente ou texto adicional. Preserve a geometria da referência anexada e a legibilidade em 24×24 pixels. A versão final deve preferencialmente reutilizar o móduloPhosphor original."
+  },
+  {
+    "id": "G09d-youtube",
+    "prompt": "Crie somente um ícone de YouTube equivalente ao Phosphor YoutubeLogo em contorno leve: retângulo horizontal de cantos arredondados e triângulo de reprodução central. Cor cinza próxima de#777B89, fundo transparente e canvas quadrado, sem preenchimento vermelho, sombra, gradiente, palavras ou elementos extras. Preserve a proporção larga do retângulo dentro da caixa24×24e siga o vetor de referência se anexado."
+  },
+  {
+    "id": "G10-framer",
+    "prompt": "Crie somente o símbolo geométricoFramerda referência anexada, monocromático cinza, em canvas quadrado transparente, sem palavra ao lado. Preserve os blocos e triângulos retos do vetor original, sem arredondamento, sombra, relevo ou textura. Centralize para uma aplicação de 30×30 pixels e não adicione outros símbolos. Para a versão final, usar o SVGoriginal do rodapé em vez de um raster gerado."
+  }
+]

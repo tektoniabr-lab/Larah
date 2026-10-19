@@ -1,0 +1,505 @@
+[
+  {
+    "id": "I01",
+    "titulo": "Retrato do hero — perfil de olhos fechados",
+    "arquivo": "I01.png",
+    "status": "gerada",
+    "prompt_documento": "Crie um retrato editorial de skincare premium, em orientação vertical próxima de 3:4. Mostre uma mulher claramente adulta de aproximadamente 25–35 anos, pele muito clara e luminosa, cabelo castanho escuro liso com risca central, preso num coque baixo. Componha do alto da cabeça até os ombros e parte superior do busto. Torso em três quartos e rosto em perfil de três quartos voltado para a direita da imagem; cabeça levemente inclinada para trás, nariz elevado, olhos delicadamente fechados, boca rosada relaxada e ligeiramente entreaberta. Preserve um pescoço alongado, anatomia natural, orelha próxima e clavículas suaves. Use luz high-key ampla, branca e fria, sem sombra dura; aparência fotográfica muito refinada, textura de pele sutil e acabamento difuso, sem brilho oleoso. Fundo totalmente transparente com canal alfa real, sem quadriculado desenhado; preserve fios de cabelo e uma transição delicada na base dos ombros. Deixe uma pequena margem no alto e nas laterais e não corte o nariz. Sem acessórios, roupa visível além do recorte, equipamento clínico, texto, moldura ou marca-d’água. Se uma referência estiver anexada, preserve a identidade, a pose e o desenho de cabelo dessa referência. O canvas final de referência é928×1228; use a proporção mais próxima disponível sem deformar o rosto.",
+    "largura": 1090,
+    "altura": 1443,
+    "modo": "RGBA",
+    "bytes": 1519788,
+    "sha256": "003bb9f686b574334eac730462d3004aad4f602e693a8285de3bf834d49ca87c",
+    "faixa_alfa": [
+      0,
+      255
+    ]
+  },
+  {
+    "id": "I02",
+    "titulo": "Depth map do hero — mapa em escala de cinza",
+    "arquivo": "I02.png",
+    "status": "gerada",
+    "prompt_documento": "Usando como referência obrigatória o retrato colorido do hero anexado, produza um mapa de profundidade relativo em escala de cinza para a mesma imagem. Preserve exatamente o enquadramento, a silhueta, o perfil voltado à direita, a inclinação da cabeça, o coque, o pescoço e os ombros; não mude a pessoa nem a pose. Fundo preto uniforme. Codifique os volumes próximos em tons claros e as regiões afastadas em tons escuros, com transições contínuas e suaves. Dê volume gradual à testa, ponte do nariz, bochecha, lábios, queixo, pescoço e ombros; mantenha os cabelos como massa volumétrica, sem fios de alto contraste. Remova textura fotográfica, maquiagem, reflexos especulares e qualquer cor. Não desenhe linhas de contorno, números, legenda ou luz estética direcional. Produza a mesma proporção vertical do retrato, próxima de 3:4, com alvo 612×810 na exportação. Este é um mapa de profundidade artístico para parallax, não uma fotografia em preto e branco.",
+    "largura": 1090,
+    "altura": 1443,
+    "modo": "RGB",
+    "bytes": 1087919,
+    "sha256": "ce90dcbe0dbcc6d0a27b970f7bf6dc4e6bbadd60b37978eba97d2b50d3c92107"
+  },
+  {
+    "id": "I03",
+    "titulo": "Busto frontal com transparência — jornada",
+    "arquivo": "I03.png",
+    "status": "gerada",
+    "prompt_documento": "Crie um retrato editorial de beleza high-key em formato quase quadrado. Mostre uma mulher claramente adulta de 25–35 anos, pele muito clara e luminosa, rosto oval delicado, olhos azul-acinzentados olhando diretamente para a câmera, sobrancelhas castanhas naturais, lábios pequenos rosa pálido e expressão neutra serena. A cabeça deve estar perfeitamente frontal e ereta, sem inclinação, com os dois olhos no mesmo nível. Cabelo castanho liso com risca central, preso para trás, e orelhas visíveis dos dois lados. Enquadre da parte superior da cabeça até ombros e clavículas, com pescoço longo e os ombros abertos simetricamente. Use iluminação muito ampla e difusa, quase sem sombras, balanço frio-neutro e baixo contraste; fotografia de skincare refinada com pele delicada e textura sutil. Fundo realmente transparente com canal alfa, sem cenário nem quadriculado desenhado; suavize progressivamente a borda inferior dos ombros para integrar ao fundo da página. Preserve a identidade da referência aprovada se anexada. Não adicione acessórios, maquiagem marcada, texto, marca-d’água ou corte das orelhas. Alvo de exportação1667×1653, sem esticar a anatomia.",
+    "largura": 1261,
+    "altura": 1247,
+    "modo": "RGBA",
+    "bytes": 1264449,
+    "sha256": "cc366777c52b49c02257b83295fdc80baab009fde97ca71add5310d09bd43655",
+    "faixa_alfa": [
+      0,
+      255
+    ]
+  },
+  {
+    "id": "I04",
+    "titulo": "Retrato frontal branco — bento de resultados",
+    "arquivo": "I04.png",
+    "status": "gerada",
+    "prompt_documento": "Crie um retrato fotográfico editorial de skincare em formato quase quadrado, sobre fundo branco puro opaco. Mulher claramente adulta de 25–35 anos com pele muito clara, rosto oval, olhos azul-acinzentados olhando de frente para a câmera, boca pequena rosada e expressão calma e neutra. Cabeça ereta perfeitamente frontal, cabelo castanho liso com risca central preso para trás, orelhas visíveis e sem brincos. Inclua a cabeça inteira, pescoço alongado, clavículas e ambos os ombros; componha simetricamente com o rosto centralizado. Luz de estúdio high-key muito difusa e abundante, sombra mínima, baixo contraste, gradação rosa-pérola suave e textura de pele discreta. Faça os ombros se fundirem suavemente no fundo branco na parte inferior. Se uma referência de identidade estiver anexada, preserve seus traços e o desenho do cabelo. Não corte metade do rosto: a imagem será recortada pelo layout posteriormente. Sem roupa destacada, acessórios, objetos, texto, logo, moldura ou marca-d’água. Referência de proporção1667×1653.",
+    "largura": 1268,
+    "altura": 1241,
+    "modo": "RGB",
+    "bytes": 1404506,
+    "sha256": "49a79aa941696a31db4d342f4ebcfde831299365860dc897f81baea5c5e9afbc"
+  },
+  {
+    "id": "I05",
+    "titulo": "Retrato de olhos baixos — escolhas cuidadosas",
+    "arquivo": "I05.png",
+    "status": "gerada",
+    "prompt_documento": "Produza um retrato editorial vertical de beleza high-key, próximo de 3:4, sobre fundo branco puro. Mostre uma mulher claramente adulta de 25–35 anos, pele muito clara e cabelo castanho liso preso num coque baixo limpo. Enquadre cabeça, pescoço e ombros. O rosto deve estar em três quartos voltado para a direita da imagem e inclinado para baixo, olhos delicadamente fechados ou abaixados, boca relaxada, expressão contemplativa. O coque aparece atrás da cabeça, à esquerda do rosto. Preserve o perfil suave do nariz, a mandíbula natural e o pescoço alongado. Use luz ampla e difusa frontal/lateral, sem sombras duras; paleta pérola e rosa natural muito claro, cabelo como principal contraste escuro. Acabamento fotográfico delicado, sem maquiagem evidente e sem aspecto oleoso. Dissolva suavemente os ombros no branco inferior. Mantenha a identidade da referência aprovada se anexada. Sem acessórios, texto, logotipos, mãos, objetos ou marca-d’água. Reserve o enquadramento completo para posterior crop no lado direito de um card; não desenhe o card nem o texto. Proporção final758×1024.",
+    "largura": 1086,
+    "altura": 1448,
+    "modo": "RGB",
+    "bytes": 1696480,
+    "sha256": "79d8aff60de0a1c303c7c550251ecab2cb15294f780b64677c34cbd8ddababff"
+  },
+  {
+    "id": "I06",
+    "titulo": "Retrato branco com cabeça elevada — cuidado prolongado",
+    "arquivo": "I06.png",
+    "status": "gerada",
+    "prompt_documento": "Crie uma fotografia editorial vertical de skincare sobre fundo branco high-key, em proporção próxima de 3:4. Mulher claramente adulta de 25–35 anos, pele muito clara, cabelo castanho liso preso para trás num coque baixo, maquiagem quase invisível. Retrato do alto da cabeça até ombros e clavículas. Torso em três quartos, cabeça levemente inclinada para trás, queixo elevado e nariz apontando para a esquerda da imagem. Olhos suavemente fechados e lábios rosados relaxados. Preserve pescoço alongado e anatomia natural, com clavículas e ombros delicadamente iluminados. Luz de estúdio muito ampla e difusa, abundante preenchimento branco, baixo contraste e temperatura fria-neutra; pele pérola, sem brilho plástico. Faça a base dos ombros se fundir suavemente no fundo branco opaco. Mantenha os traços da referência aprovada se anexada, mas preserve a orientação para a esquerda deste pedido. Sem acessórios, objetos, texto, moldura ou marca-d’água. Entregue o busto inteiro para recorte posterior, na proporção774×1024.",
+    "largura": 1086,
+    "altura": 1448,
+    "modo": "RGB",
+    "bytes": 1506081,
+    "sha256": "5822fb7ddacd290fad1da944a51b7e228a0ceeddcb21f28e05323f54cf73fdb1"
+  },
+  {
+    "id": "I07",
+    "titulo": "Natureza-morta de plumas secas — artigo editorial",
+    "arquivo": "I07.png",
+    "status": "gerada",
+    "prompt_documento": "Crie uma natureza-morta fotográfica minimalista para um editorial de bem-estar, em formato quadrado. Mostre um pequeno conjunto de hastes muito finas de gramíneas secas com plumas macias em bege-palha e creme. A pluma mais clara e nítida deve ficar na metade esquerda/centro, inclinada discretamente para a esquerda, com outras hastes altas e plumas mais desfocadas na metade direita e no fundo. Enquadre apenas hastes e plumas: não mostre vaso, mesa ou mãos. Use uma parede lisa cinza-gelo clara como fundo, atravessada por uma grande faixa diagonal de luz natural de janela e sombras suaves. Fotografia de close médio, profundidade de campo rasa, foco nas fibras da pluma dianteira, bokeh delicado, contraste baixo e saturação muito baixa. Atmosfera calma e arquitetônica, cores areia, marfim e cinza neutro, sem plantas verdes nem flores coloridas. Preserve espaço claro entre as hastes e margem para crop vertical posterior. Sem texto, moldura, objetos adicionais, logotipo ou marca-d’água. Gere um mestre quadrado de alta resolução; exportar 2048×2048 e derivar 1024×1024 da mesma imagem.",
+    "largura": 1254,
+    "altura": 1254,
+    "modo": "RGB",
+    "bytes": 1729365,
+    "sha256": "c3e885aa4e3664925be8e6a9dc3a3bb0e1ae5dc354b3198de96c6bedb3c4de3b"
+  },
+  {
+    "id": "I08",
+    "titulo": "Close-up de rosto inclinado — hidratação",
+    "arquivo": "I08.png",
+    "status": "gerada",
+    "prompt_documento": "Crie um close-up fotográfico editorial de hidratação da pele em formato quadrado. Mulher claramente adulta de 25–35 anos, pele clara e luminosa, cabelo castanho escuro com aparência ligeiramente úmida e penteado para trás. Rosto em três quartos voltado para a esquerda da imagem, cabeça inclinada para baixo, olho próximo suavemente fechado ou abaixado. Enquadre o cabelo no alto, testa, nariz, lábios naturais e pescoço/ombro na metade direita inferior; mantenha o nariz e a boca inteiros dentro da área central para um crop horizontal posterior. Use iluminação natural high-key muito difusa de uma janela à esquerda, fundo branco-azulado quase sem detalhes e uma faixa vertical de cortina suave na esquerda. Pele com leve brilho de hidratação na testa e bochecha, textura muito fina e realista, sem gotas exageradas nem produto visível. Paleta de gelo, pérola e rosa-bege, baixo contraste, sombras suaves, lente de retrato sem distorção. Não inclua joias, maquiagem forte, frascos, texto, logo ou marca-d’água. Gere um único mestre quadrado de alta resolução e derive as versões2048 e 1024 sem mudar a pessoa.",
+    "largura": 1254,
+    "altura": 1254,
+    "modo": "RGB",
+    "bytes": 1935917,
+    "sha256": "406066d35a72b69187760957382853e27564627dc8cb30aa9725054d88e5a1b6"
+  },
+  {
+    "id": "I09",
+    "titulo": "Mulher de cabelo cacheado, fundo azul",
+    "arquivo": "I09.png",
+    "status": "gerada",
+    "prompt_documento": "Crie um retrato fotográfico quadrado para avatar de um site de bem-estar. Mostre uma mulher claramente adulta de 25–35 anos, pele de tom médio-claro, cabelo preto curto e densamente cacheado, perfil de três quartos voltado à esquerda da imagem, queixo discretamente elevado e olhar dirigido para o alto à esquerda; top cinza claro com decote simples e ombros visíveis; fundo de estúdio azul acinzentado uniforme, luz lateral suave da esquerda destacando testa e nariz, cabelo escuro bem definido. Componha a cabeça no centro, com pescoço e parte superior dos ombros, deixando margem suficiente para um recorte circular posterior sem cortar olhos ou queixo. Mantenha a pessoa claramente adulta e a anatomia natural. Use fotografia editorial informal, textura de pele realista, nitidez suave no rosto e fundo simples; preserve a paleta específica descrita, sem aplicar o fundo branco dos retratos principais. Se o avatar de referência estiver anexado, siga sua composição e direção do olhar. Não inclua outras pessoas, texto, moldura circular desenhada, logotipo ou marca-d’água. Gere um mestre quadrado nítido; a aplicação final será44 pixels, por isso a expressão e a silhueta precisam permanecer legíveis em miniatura.",
+    "largura": 1254,
+    "altura": 1254,
+    "modo": "RGB",
+    "bytes": 2190821,
+    "sha256": "a5bec01106cb4561f3e7b9470b44a1e762f54fa848a7e8edc9478867fc2cf968"
+  },
+  {
+    "id": "I10",
+    "titulo": "Homem de óculos, fundo mostarda",
+    "arquivo": "I10.png",
+    "status": "gerada",
+    "prompt_documento": "Crie um retrato fotográfico quadrado para avatar de um site de bem-estar. Mostre um homem claramente adulto de 25–40 anos, cabelo castanho escuro curto penteado para cima e para trás, barba cheia curta e bem aparada, óculos de grau pretos com armação grossa e formato levemente arredondado; olhando frontalmente para a câmera com expressão neutra, camiseta preta lisa; fundo amarelo-mostarda quente e uniforme, luz frontal suave, contraste moderado e textura natural. Componha a cabeça no centro, com pescoço e parte superior dos ombros, deixando margem suficiente para um recorte circular posterior sem cortar olhos ou queixo. Mantenha a pessoa claramente adulta e a anatomia natural. Use fotografia editorial informal, textura de pele realista, nitidez suave no rosto e fundo simples; preserve a paleta específica descrita, sem aplicar o fundo branco dos retratos principais. Se o avatar de referência estiver anexado, siga sua composição e direção do olhar. Não inclua outras pessoas, texto, moldura circular desenhada, logotipo ou marca-d’água. Gere um mestre quadrado nítido; a aplicação final será44 pixels, por isso a expressão e a silhueta precisam permanecer legíveis em miniatura.",
+    "largura": 1254,
+    "altura": 1254,
+    "modo": "RGB",
+    "bytes": 1995903,
+    "sha256": "c3252673c72b93d4d9b98947a844cc56fb0804f142e57b8f70d375bbac88b3ce"
+  },
+  {
+    "id": "I11",
+    "titulo": "Mulher de óculos, fundo terracota",
+    "arquivo": "I11.png",
+    "status": "gerada",
+    "prompt_documento": "Crie um retrato fotográfico quadrado para avatar de um site de bem-estar. Mostre uma mulher claramente adulta de 25–35 anos, cabelo loiro-escuro ou castanho-claro ondulado até os ombros, óculos de armação fina arredondada, sorriso discreto e natural e cabeça levemente inclinada; blusa branca simples, enquadramento de cabeça e ombros; fundo de parede terracota avermelhado com textura muito suave e luz lateral quente e difusa, clima acolhedor sem pose publicitária exagerada. Componha a cabeça no centro, com pescoço e parte superior dos ombros, deixando margem suficiente para um recorte circular posterior sem cortar olhos ou queixo. Mantenha a pessoa claramente adulta e a anatomia natural. Use fotografia editorial informal, textura de pele realista, nitidez suave no rosto e fundo simples; preserve a paleta específica descrita, sem aplicar o fundo branco dos retratos principais. Se o avatar de referência estiver anexado, siga sua composição e direção do olhar. Não inclua outras pessoas, texto, moldura circular desenhada, logotipo ou marca-d’água. Gere um mestre quadrado nítido; a aplicação final será44 pixels, por isso a expressão e a silhueta precisam permanecer legíveis em miniatura.",
+    "largura": 1254,
+    "altura": 1254,
+    "modo": "RGB",
+    "bytes": 2145370,
+    "sha256": "8ec1a268c434b9b18bdd04c14c84b639f46376e3bff7dba08847577302d5c696"
+  },
+  {
+    "id": "I12",
+    "titulo": "Homem de óculos escuros ao ar livre",
+    "arquivo": "I12.png",
+    "status": "gerada",
+    "prompt_documento": "Crie um retrato fotográfico quadrado para avatar de um site de bem-estar. Mostre um homem claramente adulto de 25–40 anos, cabelo castanho curto ondulado, barba cheia e óculos de sol escuros redondos; rosto em três quartos apontando para a esquerda da imagem, olhar além da câmera, expressão tranquila; camiseta ou camisa escura simples e um colar fino discreto; ambiente externo desfocado, fundo azul-esverdeado claro com bokeh e contraluz de fim de tarde dourado no cabelo e na barba, aparência espontânea e fotográfica. Componha a cabeça no centro, com pescoço e parte superior dos ombros, deixando margem suficiente para um recorte circular posterior sem cortar olhos ou queixo. Mantenha a pessoa claramente adulta e a anatomia natural. Use fotografia editorial informal, textura de pele realista, nitidez suave no rosto e fundo simples; preserve a paleta específica descrita, sem aplicar o fundo branco dos retratos principais. Se o avatar de referência estiver anexado, siga sua composição e direção do olhar. Não inclua outras pessoas, texto, moldura circular desenhada, logotipo ou marca-d’água. Gere um mestre quadrado nítido; a aplicação final será44 pixels, por isso a expressão e a silhueta precisam permanecer legíveis em miniatura.",
+    "largura": 1254,
+    "altura": 1254,
+    "modo": "RGB",
+    "bytes": 2020736,
+    "sha256": "63fc99b03a04019e800165a92bb5103305912ab3f845ea4f71feac649913d163"
+  },
+  {
+    "id": "I13",
+    "titulo": "Mulher de cabelo escuro, fundo amarelo",
+    "arquivo": "I13.png",
+    "status": "gerada",
+    "prompt_documento": "Crie um retrato fotográfico quadrado para avatar de um site de bem-estar. Mostre uma mulher claramente adulta de 25–35 anos, cabelo castanho escuro longo solto com risca natural, olhos claros verde-acinzentados, rosto frontal olhando diretamente para a câmera e expressão serena sem sorriso amplo; top escuro de alças finas no recorte dos ombros; fundo amarelo-mostarda quente e uniforme, luz natural lateral suave com gradação de sombra de um lado do rosto, textura de pele realista e contraste moderado. Componha a cabeça no centro, com pescoço e parte superior dos ombros, deixando margem suficiente para um recorte circular posterior sem cortar olhos ou queixo. Mantenha a pessoa claramente adulta e a anatomia natural. Use fotografia editorial informal, textura de pele realista, nitidez suave no rosto e fundo simples; preserve a paleta específica descrita, sem aplicar o fundo branco dos retratos principais. Se o avatar de referência estiver anexado, siga sua composição e direção do olhar. Não inclua outras pessoas, texto, moldura circular desenhada, logotipo ou marca-d’água. Gere um mestre quadrado nítido; a aplicação final será44 pixels, por isso a expressão e a silhueta precisam permanecer legíveis em miniatura.",
+    "largura": 1254,
+    "altura": 1254,
+    "modo": "RGB",
+    "bytes": 1905134,
+    "sha256": "516a59ce8c89ec938d64fef5946f65a96593cdcb4af1d4ec880bae11cf32c6a7"
+  },
+  {
+    "id": "I14",
+    "titulo": "Miniatura promocional de outro template",
+    "arquivo": "I14.png",
+    "status": "gerada",
+    "prompt_documento": "Crie uma miniatura promocional de um website corporativo, em proporção4:3, com estética de mockup de página. Fundo externo em gradiente azul-petróleo suave; no centro, um painel de website retangular com cantos discretamente arredondados, sombra suave e fundo teal escuro. Na metade esquerda do painel, escreva em tipografia sans-serif muito pesada e branca, em duas linhas grandes: “NOW” e “IT’S A PLAN.”. Inclua apenas pequenos acentos coral/vermelho ao redor das chamadas e uma faixa discreta de navegação no topo. Na metade direita, mostre dois profissionais adultos de perfil em um encontro cordial: homem de cabelo escuro à esquerda e mulher de cabelo escuro à direita, roupas sociais escuras, em um aperto de mãos. Mantenha acabamento de apresentação de template, com profundidade suave e boa leitura em miniatura. Não inclua a interface do navegador nem logotipos adicionais. Use a miniatura de referência se anexada para preservar a hierarquia e o enquadramento. Alvo512×384. Para correspondência exata da tipografia, a imagem final deve ser composta manualmente a partir do layout, não depender apenas da geração.",
+    "largura": 1448,
+    "altura": 1086,
+    "modo": "RGB",
+    "bytes": 1721613,
+    "sha256": "c8e169d578605cb59aa5346a21950afed94e75ac3de5d89c3b082bd5dab29026"
+  },
+  {
+    "id": "I15",
+    "titulo": "Apple touch icon — t branca sobre azul",
+    "arquivo": "I15.png",
+    "status": "gerada",
+    "prompt_documento": "Crie um ícone gráfico plano quadrado, sem efeito3D, sobre fundo azul pervinca claro uniforme. Desenhe uma única letra “t” branca, sans-serif, com haste vertical larga, travessão horizontal simples e terminação inferior arredondada, muito grande e deslocada para a direita, próxima ao corte da borda direita. Preserve amplo espaço azul à esquerda. Sem contorno, sombra, textura, gradiente, outras letras, logotipo adicional ou moldura. Use a imagem de referência para a geometria exata caso anexada. Entregue uma composição quadrada adequada para exportação180×180. Este é um esboço raster; para fidelidade absoluta, usar o PNG original.",
+    "largura": 1254,
+    "altura": 1254,
+    "modo": "RGB",
+    "bytes": 1132884,
+    "sha256": "e9f6bad8d214b98a0794c59b1b700aca4793d81e83269d2247f726f0edb9d58a"
+  },
+  {
+    "id": "I16",
+    "titulo": "Favicon — t preta sobre azul",
+    "arquivo": "I16.png",
+    "status": "gerada",
+    "prompt_documento": "Crie um favicon gráfico plano quadrado com fundo azul pervinca claro e cantos arredondados, deixando transparência real fora dos cantos. Sobre ele, desenhe uma única letra “t” preta, sans-serif pesada, grande e alinhada mais à direita, com haste vertical simples, travessão horizontal e curva suave na terminação inferior. Mantenha espaço azul na metade esquerda e boa leitura em miniatura. Sem sombra, textura, gradiente, contorno, outras letras ou marca-d’água. Use o favicon anexado como referência geométrica se disponível. Produza um mestre quadrado limpo para exportar 64×64,32×32e16×16 sem perder o canal alfa. Para reprodução exata, conservar o PNG original.",
+    "largura": 1254,
+    "altura": 1254,
+    "modo": "RGBA",
+    "bytes": 1114513,
+    "sha256": "4dbfa5cf310c0f7b77f2bbded4d84bb56e74f593d8b0ac498ffcd1c59be7fd93",
+    "faixa_alfa": [
+      0,
+      255
+    ]
+  },
+  {
+    "id": "I17",
+    "titulo": "Chevron esquerdo do carrossel",
+    "arquivo": "I17.png",
+    "status": "gerada",
+    "prompt_documento": "Crie somente um símbolo de chevron apontando para a esquerda, centralizado num canvas quadrado totalmente transparente, sem círculo nem fundo. O desenho deve ser uma linha branca uniforme com pontas e junções arredondadas, sem preenchimento. Geometria desejada em um canvas 40×40: partir de 22.5,12.5, seguir até15,20 e terminar em 22.5,27.5; espessura2 unidades. Não adicionar sombra, textura, texto ou outros símbolos. Se o gerador produzir raster, use alta resolução e reduza para 40×40 preservando alfa. Para a entrega exata em SVG, usar o path original informado no inventário.",
+    "largura": 1254,
+    "altura": 1254,
+    "modo": "RGBA",
+    "bytes": 101695,
+    "sha256": "c5338c0851370fd9a18a2cb1ef0d8cc5372b02161b31e94be2459160519b2c5c",
+    "faixa_alfa": [
+      0,
+      255
+    ]
+  },
+  {
+    "id": "I18",
+    "titulo": "Chevron direito do carrossel",
+    "arquivo": "I18.png",
+    "status": "gerada",
+    "prompt_documento": "Crie somente um símbolo de chevron apontando para a direita, centralizado num canvas quadrado totalmente transparente, sem círculo nem fundo. Desenhe uma linha branca uniforme com pontas e junções arredondadas, sem preenchimento. Em um canvas 40×40, a linha deve partir de 17.5,12.5, seguir até25,20 e terminar em 17.5,27.5, com espessura2 unidades. Preserve simetria com o chevron esquerdo da coleção. Sem sombra, textura, texto, moldura ou outros símbolos. Se a saída for raster, gere em alta resolução e reduza preservando alfa; para exatidão geométrica, reutilize o SVG original.",
+    "largura": 1254,
+    "altura": 1254,
+    "modo": "RGBA",
+    "bytes": 134098,
+    "sha256": "469bc6929c782d069316788f799eb397fbbf866b0389bab9d5cc1f3bf2f53466",
+    "faixa_alfa": [
+      0,
+      255
+    ]
+  },
+  {
+    "id": "I19",
+    "titulo": "Máscara alfa dos avatars — círculo com recorte côncavo",
+    "arquivo": "I19.png",
+    "status": "gerada",
+    "prompt_documento": "Crie uma máscara gráfica plana para sobreposição de avatars, em canvas vertical de proporção40:48, com fundo completamente transparente e uma única forma cinza opaca#D9D9D9. A forma deve parecer um disco circular de 48 unidades de diâmetro centrado em 24,24, mas com a lateral direita removida por uma concavidade circular que acomoda o próximo disco à direita. Preserve o arco convexo externo esquerdo, o topo em 24,0 e a base em 24,48; a borda côncava direita conecta aproximadamente40,6.112a40,41.887e alcança seu ponto mais à esquerda perto de 32,24. Não adicionar borda, sombra, textura, rosto, texto ou marca-d’água. O objetivo é uma máscara alfa uniforme, não uma imagem decorativa. Para geometria perfeita, usar diretamente o SVG original em CSS mask.",
+    "largura": 1145,
+    "altura": 1374,
+    "modo": "RGBA",
+    "bytes": 1287693,
+    "sha256": "67abeffa7d289ea39a03a324b952575a5261970bdfbcc8925f5b4f20ebc5708b",
+    "faixa_alfa": [
+      0,
+      255
+    ],
+    "observacao": "Segunda geração. A silhueta não tem o vazado central da primeira tentativa, mas há variações de tom/alfa. É aproximação visual; para máscara geométrica e opaca exata, usar o SVG original."
+  },
+  {
+    "id": "G01-fundo-topografico",
+    "titulo": "G01-fundo-topografico",
+    "arquivo": "G01-fundo-topografico.png",
+    "status": "gerada",
+    "prompt_documento": "Crie um fundo abstrato minimalista horizontal para uma página de estética e bem-estar. Use base pervinca muito clara próxima de#D6DAEB, uma região azul-gelo clara próxima de#CEDFED e uma grande luminosidade branca difusa no centro. Sobre o fundo, desenhe apenas linhas brancas extremamente finas, suaves e contínuas, como curvas topográficas concêntricas organicamente deformadas. As curvas devem envolver uma área central de repouso, sem um círculo perfeito e sem parecer ondas de água ou impressões digitais. Baixo contraste, grandes espaçamentos, atmosfera aérea e quase branca, sem textura granulada, objetos ou vinheta escura. Não desenhe retratos, texto, logotipo, botões nem cards. Componha no formato1358:610, em alta resolução. Use a captura de referência, se anexada, para reproduzir a distribuição das curvas e a intensidade da luz. A saída é um frame estático de referência, não substitui a animação procedural do site.",
+    "largura": 1871,
+    "altura": 841,
+    "modo": "RGB",
+    "bytes": 1324733,
+    "sha256": "2447132ec07e641f8c6f5e88ba8e8c3a73b37b4c90f5da2c78d2ef6f1330d487"
+  },
+  {
+    "id": "G02-logo-althea",
+    "titulo": "G02-logo-althea",
+    "arquivo": "G02-logo-althea.png",
+    "status": "gerada",
+    "prompt_documento": "Crie somente um wordmark com a palavra exata “Althea”, em escrita cursiva conectada equivalente à fonte Dancing Script no peso 700, sem ícone adicional. Use inicial A maiúscula, letras restantes minúsculas, inclinação fluida para a direita, contraste suave de traço e aparência caligráfica limpa, seguindo o wordmark de referência se anexado. Cor sólida #333333 sobre fundo realmente transparente com canal alfa. Não adicione sublinhado, floreio extra, moldura, sombra, slogan ou outras palavras. Deixe margens pequenas e equilibradas. Esta imagem serve apenas como referência visual; a implementação final deve usar Dancing Script 700 em texto para preservar a geometria do original.",
+    "largura": 1983,
+    "altura": 793,
+    "modo": "RGBA",
+    "bytes": 525257,
+    "sha256": "57619a3fcbe56c85f7079aa24a2991842168cab4cde7542193814452e868f664",
+    "faixa_alfa": [
+      0,
+      255
+    ],
+    "observacao": "Gráfico gerado em raster; conferir bordas, resíduos de alfa e geometria antes de substituir os vetores/fontes originais."
+  },
+  {
+    "id": "G03-icone-skin-health",
+    "titulo": "G03-icone-skin-health",
+    "arquivo": "G03-icone-skin-health.png",
+    "status": "gerada",
+    "prompt_documento": "Crie um ícone vetorial minimalista de saúde da pele, em canvas quadrado transparente. Desenhe um pequeno círculo vazio na parte superior e, abaixo, duas folhas curvas que se abrem para os lados e convergem numa base central, como um broto abstrato acolhedor. Use apenas contorno de espessura visual uniforme, curvas arredondadas e cor lavanda-cinza muito clara próxima de#D6DAEB. Sem preenchimento sólido nas folhas, sem sombra, gradiente, brilho, texto ou círculo externo. Preserve a leveza e as proporções do glifo de referência se anexado. Mantenha bastante margem em torno do símbolo. O resultado é um esboço; para réplica exata, usar o vetor original do serviço Skin Health.",
+    "largura": 1254,
+    "altura": 1254,
+    "modo": "RGBA",
+    "bytes": 270499,
+    "sha256": "e4b4cd41e05c15ba91d94c678ad6b657c12c1db6c87a8a3d29f8270ac06d1196",
+    "faixa_alfa": [
+      0,
+      255
+    ],
+    "observacao": "Gráfico gerado em raster; conferir bordas, resíduos de alfa e geometria antes de substituir os vetores/fontes originais."
+  },
+  {
+    "id": "G04-icone-aesthetic-care",
+    "titulo": "G04-icone-aesthetic-care",
+    "arquivo": "G04-icone-aesthetic-care.png",
+    "status": "gerada",
+    "prompt_documento": "Crie um ícone de beleza em desenho linear minimalista sobre fundo totalmente transparente. Desenhe um único contorno abstrato de parte de um rosto: arco suave da sobrancelha/testa, um olho simples com pálpebra arredondada e uma linha longa e fluida que sugira a ponte e a ponta do nariz, voltada para a direita. Não desenhe um rosto completo nem uma cabeça fechada. Use traço lavanda-cinza muito claro próximo de#D6DAEB, espessura uniforme, pontas e curvas suaves, sem preenchimento, sombra ou gradiente. Composição quadrada, centralizada e arejada, sem texto, logotipo ou moldura. Siga o glifo de referência do serviço Aesthetic Care se anexado, sem acrescentar cílios decorativos ou detalhes de maquiagem.",
+    "largura": 1254,
+    "altura": 1254,
+    "modo": "RGBA",
+    "bytes": 191936,
+    "sha256": "68d75064bdbd74ee3a744777cc3688ea9674e68c6151b5442ce95b640141c50e",
+    "faixa_alfa": [
+      0,
+      255
+    ],
+    "observacao": "Gráfico gerado em raster; conferir bordas, resíduos de alfa e geometria antes de substituir os vetores/fontes originais."
+  },
+  {
+    "id": "G05-icone-wellness",
+    "titulo": "G05-icone-wellness",
+    "arquivo": "G05-icone-wellness.png",
+    "status": "gerada",
+    "prompt_documento": "Crie um símbolo linear abstrato de bem-estar sobre canvas quadrado transparente: um pequeno círculo vazio suspenso acima de duas folhas curvas assimétricas, com hastes que se encontram na base, sugerindo pessoa e planta de forma muito sutil. A folha esquerda deve subir de forma mais vertical e a direita abrir suavemente para o lado. Use um único traço lavanda-cinza muito claro próximo de#D6DAEB, curvas arredondadas e pouco detalhe. Sem preenchimento, textura, sombra, gradiente, texto ou moldura. Preserve margens amplas e a proporção do ícone de referência se anexado. Não aplique acabamento3Dnem aparência de desenho à mão irregular; a linguagem é vetorial, limpa e leve.",
+    "largura": 1254,
+    "altura": 1254,
+    "modo": "RGBA",
+    "bytes": 248955,
+    "sha256": "bbb4574304fd62f3ffddac246508a343cd7356af4d0bf95a6fe33b89e5506d9e",
+    "faixa_alfa": [
+      0,
+      255
+    ],
+    "observacao": "Gráfico gerado em raster; conferir bordas, resíduos de alfa e geometria antes de substituir os vetores/fontes originais."
+  },
+  {
+    "id": "G06-icone-consultation",
+    "titulo": "G06-icone-consultation",
+    "arquivo": "G06-icone-consultation.png",
+    "status": "gerada",
+    "prompt_documento": "Crie um ícone vetorial minimalista formado por uma única espiral aberta, de aproximadamente duas voltas e meia, centralizada em canvas quadrado totalmente transparente. O centro deve ser pequeno e a curva aumentar progressivamente até a abertura externa, com traço contínuo suave e pontas arredondadas. Use lavanda-cinza muito claro próximo de#D6DAEB, sem preenchimento nem variação decorativa de cor. Mantenha aparência calma e orgânica, sem simetria mecânica exagerada, mas com desenho limpo. Sem sombra, gradiente, textura, texto ou círculo de fundo. Siga a orientação da abertura e o espaçamento do ícone do serviço Personal Consultation da referência, se anexado.",
+    "largura": 1254,
+    "altura": 1254,
+    "modo": "RGBA",
+    "bytes": 444239,
+    "sha256": "397c81c59f861f259ef8fd419390f7d2e10e79d5d01d0dfdb12197f0660df883",
+    "faixa_alfa": [
+      0,
+      255
+    ],
+    "observacao": "Gráfico gerado em raster; conferir bordas, resíduos de alfa e geometria antes de substituir os vetores/fontes originais."
+  },
+  {
+    "id": "G07-icone-care-plans",
+    "titulo": "G07-icone-care-plans",
+    "arquivo": "G07-icone-care-plans.png",
+    "status": "gerada",
+    "prompt_documento": "Crie um ícone vetorial de flor de lótus muito simples, em canvas quadrado transparente. Desenhe uma pétala central vertical em forma de gota pontuda arredondada, duas pétalas oblíquas intermediárias e duas folhas/pétalas inferiores abertas para os lados, todas convergindo suavemente na base central. Use apenas linhas lavanda-cinza muito claras próximas de#D6DAEB, espessura uniforme e curvas limpas, sem preenchimento ou sombreado. A flor deve ser compacta, centrada e amplamente cercada por espaço vazio. Sem caule longo, água, mãos, texto, moldura, textura ou gradiente. Se o glifo original estiver anexado, siga exatamente seu número de pétalas, proporções e aberturas.",
+    "largura": 1254,
+    "altura": 1254,
+    "modo": "RGBA",
+    "bytes": 182276,
+    "sha256": "8e465d281d429b47ba27add5d09b005c53114ccdaa34022d48e4db7a09169963",
+    "faixa_alfa": [
+      0,
+      255
+    ],
+    "observacao": "Gráfico gerado em raster; conferir bordas, resíduos de alfa e geometria antes de substituir os vetores/fontes originais."
+  },
+  {
+    "id": "G08a-avaliacao-verde",
+    "titulo": "G08a-avaliacao-verde",
+    "arquivo": "G08a-avaliacao-verde.png",
+    "status": "gerada",
+    "prompt_documento": "Crie uma faixa gráfica de avaliação com cinco quadrados verdes idênticos alinhados horizontalmente, em fundo transparente. Cada quadrado deve usar cor sólida #05B67A e conter uma estrela branca de cinco pontas, centrada, com a mesma geometria em todos os cinco. Proporção de cada quadrado 1:1, intervalo entre quadrados equivalente a 3 unidades para lado 30. Sem arredondamento dos quadrados, sem sombra, brilho, gradiente, texto ou número de avaliações. O objetivo é uma faixa geométrica limpa para interface. Para precisão absoluta, implementar quadrados e estrelas em SVG/CSS com as medidas fornecidas.",
+    "largura": 2172,
+    "altura": 724,
+    "modo": "RGBA",
+    "bytes": 649163,
+    "sha256": "f88e75074992822b8d7ad340d5803472063ae9f982faa6459986ee6e2dfc5b04",
+    "faixa_alfa": [
+      0,
+      255
+    ],
+    "observacao": "Gráfico gerado em raster; conferir bordas, resíduos de alfa e geometria antes de substituir os vetores/fontes originais."
+  },
+  {
+    "id": "G08b-trustpoint",
+    "titulo": "G08b-trustpoint",
+    "arquivo": "G08b-trustpoint.png",
+    "status": "gerada",
+    "prompt_documento": "Crie um pequeno elemento de marca para uma interface: estrela sólida verde#05B67A à esquerda e a palavra exata “TrustPoint” à direita, em sans-serif escura, peso médio/semibold, sem slogan. Mantenha a estrela e o texto alinhados verticalmente e com distância curta. Fundo realmente transparente, sem caixa de cor, sombra, gradiente ou textura. Não escrevaTrustpilotnem inclua marcas adicionais. Siga a referência anexada se disponível. A implementação final deve usar texto e vetor para a geometria e a tipografia exatas.",
+    "largura": 2172,
+    "altura": 724,
+    "modo": "RGBA",
+    "bytes": 330282,
+    "sha256": "83af0d2e5d3af589263a3b601513b8329732cba9657eeafb1d4dd63047c8db28",
+    "faixa_alfa": [
+      0,
+      255
+    ],
+    "observacao": "Gráfico gerado em raster; conferir bordas, resíduos de alfa e geometria antes de substituir os vetores/fontes originais."
+  },
+  {
+    "id": "G08c-estrelas-laranja",
+    "titulo": "G08c-estrelas-laranja",
+    "arquivo": "G08c-estrelas-laranja.png",
+    "status": "gerada",
+    "prompt_documento": "Crie somente cinco estrelas sólidas de cinco pontas, idênticas, alinhadas horizontalmente, em cor uniforme#FFA600 sobre fundo transparente. Use formato de estrela simples e limpo, sem quadrado ou círculo de fundo, sem brilho, sombra, gradiente, contorno, texto ou numeral. Cada estrela deve ocupar aproximadamente16×17 unidades no resultado final, com espaçamento visual mínimo e alinhamento constante. Gere em alta resolução se necessário e preserve transparência. Para réplica exata, substituir o raster pelas estrelas SVG originais.",
+    "largura": 1983,
+    "altura": 793,
+    "modo": "RGBA",
+    "bytes": 317327,
+    "sha256": "a3109e365d8c8c4a8832862356d22f74e064fd84e82323fb1ca624fc9871bf0c",
+    "faixa_alfa": [
+      0,
+      255
+    ],
+    "observacao": "Gráfico gerado em raster; conferir bordas, resíduos de alfa e geometria antes de substituir os vetores/fontes originais."
+  },
+  {
+    "id": "G09a-instagram",
+    "titulo": "G09a-instagram",
+    "arquivo": "G09a-instagram.png",
+    "status": "gerada",
+    "prompt_documento": "Crie somente um ícone de Instagram em estilo de contorno leve equivalente ao Phosphor InstagramLogo: quadrado de cantos arredondados, círculo central e pequeno ponto no canto superior direito. Cor cinza próxima de#777B89, canvas quadrado transparente, sem fundo colorido, preenchimento fotográfico, sombra, gradiente ou texto. Mantenha proporções adequadas para 24×24 pixels e siga o vetor de referência se anexado.",
+    "largura": 1254,
+    "altura": 1254,
+    "modo": "RGBA",
+    "bytes": 276566,
+    "sha256": "460c11d26181114c8b48cb050949bc48306ab525c4f1270595c047eb7ad24990",
+    "faixa_alfa": [
+      0,
+      255
+    ],
+    "observacao": "Gráfico gerado em raster; conferir bordas, resíduos de alfa e geometria antes de substituir os vetores/fontes originais."
+  },
+  {
+    "id": "G09b-threads",
+    "titulo": "G09b-threads",
+    "arquivo": "G09b-threads.png",
+    "status": "gerada",
+    "prompt_documento": "Crie somente o símbolo de Threads em estilo de contorno leve equivalente ao Phosphor ThreadsLogo: forma contínua arredondada característica, centralizada em canvas quadrado transparente. Cor cinza próxima de#777B89, sem círculo externo acrescentado, fundo colorido, sombra, gradiente ou texto. Mantenha boa leitura em 24×24 pixels e preserve a geometria do vetor de referência se anexado; não substitua por uma letra “a” redesenhada livremente.",
+    "largura": 1254,
+    "altura": 1254,
+    "modo": "RGBA",
+    "bytes": 440142,
+    "sha256": "ce83fae56e544610ad3f0f5e60d108361df488897261c5381d968297769080f7",
+    "faixa_alfa": [
+      0,
+      255
+    ],
+    "observacao": "Gráfico gerado em raster; conferir bordas, resíduos de alfa e geometria antes de substituir os vetores/fontes originais."
+  },
+  {
+    "id": "G09c-facebook",
+    "titulo": "G09c-facebook",
+    "arquivo": "G09c-facebook.png",
+    "status": "gerada",
+    "prompt_documento": "Crie somente um ícone de Facebook equivalente ao Phosphor FacebookLogo em traço leve, com o “f” característico no contexto circular do glifo de referência. Cor cinza próxima de#777B89, fundo transparente, canvas quadrado, sem azul de marca, sombra, gradiente ou texto adicional. Preserve a geometria da referência anexada e a legibilidade em 24×24 pixels. A versão final deve preferencialmente reutilizar o móduloPhosphor original.",
+    "largura": 1254,
+    "altura": 1254,
+    "modo": "RGBA",
+    "bytes": 286320,
+    "sha256": "e30a8ac7e4e31ffadc757c43d57f65ce69ba32621fe671a7439492e00e404bca",
+    "faixa_alfa": [
+      0,
+      255
+    ],
+    "observacao": "Gráfico gerado em raster; conferir bordas, resíduos de alfa e geometria antes de substituir os vetores/fontes originais."
+  },
+  {
+    "id": "G09d-youtube",
+    "titulo": "G09d-youtube",
+    "arquivo": "G09d-youtube.png",
+    "status": "gerada",
+    "prompt_documento": "Crie somente um ícone de YouTube equivalente ao Phosphor YoutubeLogo em contorno leve: retângulo horizontal de cantos arredondados e triângulo de reprodução central. Cor cinza próxima de#777B89, fundo transparente e canvas quadrado, sem preenchimento vermelho, sombra, gradiente, palavras ou elementos extras. Preserve a proporção larga do retângulo dentro da caixa24×24e siga o vetor de referência se anexado.",
+    "largura": 1254,
+    "altura": 1254,
+    "modo": "RGBA",
+    "bytes": 209819,
+    "sha256": "553586917f47c760e8359c656af91d88e17906578687632503ace189814edeba",
+    "faixa_alfa": [
+      0,
+      255
+    ],
+    "observacao": "Gráfico gerado em raster; conferir bordas, resíduos de alfa e geometria antes de substituir os vetores/fontes originais."
+  },
+  {
+    "id": "G10-framer",
+    "titulo": "G10-framer",
+    "arquivo": "G10-framer.png",
+    "status": "gerada",
+    "prompt_documento": "Crie somente o símbolo geométricoFramerda referência anexada, monocromático cinza, em canvas quadrado transparente, sem palavra ao lado. Preserve os blocos e triângulos retos do vetor original, sem arredondamento, sombra, relevo ou textura. Centralize para uma aplicação de 30×30 pixels e não adicione outros símbolos. Para a versão final, usar o SVGoriginal do rodapé em vez de um raster gerado.",
+    "largura": 1254,
+    "altura": 1254,
+    "modo": "RGBA",
+    "bytes": 323153,
+    "sha256": "c21856cd00d9e0a6039aadc1ed612e6f1905e7e4a2b72b741046402811edef2c",
+    "faixa_alfa": [
+      0,
+      255
+    ],
+    "observacao": "Gráfico gerado em raster; conferir bordas, resíduos de alfa e geometria antes de substituir os vetores/fontes originais."
+  }
+]

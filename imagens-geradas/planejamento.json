@@ -1,0 +1,116 @@
+[
+  {
+    "id": "I01",
+    "name": "Retrato do hero — perfil de olhos fechados",
+    "reference": "oK4ZpG0Udo91FCmeNX5CiuStQBg__qdd5a09f3.webp",
+    "prompt": "Crie um retrato editorial de skincare premium, em orientação vertical próxima de 3:4. Mostre uma mulher claramente adulta de aproximadamente 25–35 anos, pele muito clara e luminosa, cabelo castanho escuro liso com risca central, preso num coque baixo. Componha do alto da cabeça até os ombros e parte superior do busto. Torso em três quartos e rosto em perfil de três quartos voltado para a direita da imagem; cabeça levemente inclinada para trás, nariz elevado, olhos delicadamente fechados, boca rosada relaxada e ligeiramente entreaberta. Preserve um pescoço alongado, anatomia natural, orelha próxima e clavículas suaves. Use luz high-key ampla, branca e fria, sem sombra dura; aparência fotográfica muito refinada, textura de pele sutil e acabamento difuso, sem brilho oleoso. Fundo totalmente transparente com canal alfa real, sem quadriculado desenhado; preserve fios de cabelo e uma transição delicada na base dos ombros. Deixe uma pequena margem no alto e nas laterais e não corte o nariz. Sem acessórios, roupa visível além do recorte, equipamento clínico, texto, moldura ou marca-d’água. Se uma referência estiver anexada, preserve a identidade, a pose e o desenho de cabelo dessa referência. O canvas final de referência é928×1228; use a proporção mais próxima disponível sem deformar o rosto."
+  },
+  {
+    "id": "I02",
+    "name": "Depth map do hero — mapa em escala de cinza",
+    "reference": "30nszQvXKcEgIENheS0WavYlM2Y__q2a2e22cb.jpg",
+    "prompt": "Usando como referência obrigatória o retrato colorido do hero anexado, produza um mapa de profundidade relativo em escala de cinza para a mesma imagem. Preserve exatamente o enquadramento, a silhueta, o perfil voltado à direita, a inclinação da cabeça, o coque, o pescoço e os ombros; não mude a pessoa nem a pose. Fundo preto uniforme. Codifique os volumes próximos em tons claros e as regiões afastadas em tons escuros, com transições contínuas e suaves. Dê volume gradual à testa, ponte do nariz, bochecha, lábios, queixo, pescoço e ombros; mantenha os cabelos como massa volumétrica, sem fios de alto contraste. Remova textura fotográfica, maquiagem, reflexos especulares e qualquer cor. Não desenhe linhas de contorno, números, legenda ou luz estética direcional. Produza a mesma proporção vertical do retrato, próxima de 3:4, com alvo 612×810 na exportação. Este é um mapa de profundidade artístico para parallax, não uma fotografia em preto e branco."
+  },
+  {
+    "id": "I03",
+    "name": "Busto frontal com transparência — jornada",
+    "reference": "azpEwdss6XW8gQrcvhKGGrYqjg__qec5eb331.webp",
+    "prompt": "Crie um retrato editorial de beleza high-key em formato quase quadrado. Mostre uma mulher claramente adulta de 25–35 anos, pele muito clara e luminosa, rosto oval delicado, olhos azul-acinzentados olhando diretamente para a câmera, sobrancelhas castanhas naturais, lábios pequenos rosa pálido e expressão neutra serena. A cabeça deve estar perfeitamente frontal e ereta, sem inclinação, com os dois olhos no mesmo nível. Cabelo castanho liso com risca central, preso para trás, e orelhas visíveis dos dois lados. Enquadre da parte superior da cabeça até ombros e clavículas, com pescoço longo e os ombros abertos simetricamente. Use iluminação muito ampla e difusa, quase sem sombras, balanço frio-neutro e baixo contraste; fotografia de skincare refinada com pele delicada e textura sutil. Fundo realmente transparente com canal alfa, sem cenário nem quadriculado desenhado; suavize progressivamente a borda inferior dos ombros para integrar ao fundo da página. Preserve a identidade da referência aprovada se anexada. Não adicione acessórios, maquiagem marcada, texto, marca-d’água ou corte das orelhas. Alvo de exportação1667×1653, sem esticar a anatomia."
+  },
+  {
+    "id": "I04",
+    "name": "Retrato frontal branco — bento de resultados",
+    "reference": "Iygm9WFensHwXXoe01QWLQ0iF78__qec5eb331.jpg",
+    "prompt": "Crie um retrato fotográfico editorial de skincare em formato quase quadrado, sobre fundo branco puro opaco. Mulher claramente adulta de 25–35 anos com pele muito clara, rosto oval, olhos azul-acinzentados olhando de frente para a câmera, boca pequena rosada e expressão calma e neutra. Cabeça ereta perfeitamente frontal, cabelo castanho liso com risca central preso para trás, orelhas visíveis e sem brincos. Inclua a cabeça inteira, pescoço alongado, clavículas e ambos os ombros; componha simetricamente com o rosto centralizado. Luz de estúdio high-key muito difusa e abundante, sombra mínima, baixo contraste, gradação rosa-pérola suave e textura de pele discreta. Faça os ombros se fundirem suavemente no fundo branco na parte inferior. Se uma referência de identidade estiver anexada, preserve seus traços e o desenho do cabelo. Não corte metade do rosto: a imagem será recortada pelo layout posteriormente. Sem roupa destacada, acessórios, objetos, texto, logo, moldura ou marca-d’água. Referência de proporção1667×1653."
+  },
+  {
+    "id": "I05",
+    "name": "Retrato de olhos baixos — escolhas cuidadosas",
+    "reference": "AYmhm7fQptPoF2bCQsLfIJDi0U4__qb58c289b.jpg",
+    "prompt": "Produza um retrato editorial vertical de beleza high-key, próximo de 3:4, sobre fundo branco puro. Mostre uma mulher claramente adulta de 25–35 anos, pele muito clara e cabelo castanho liso preso num coque baixo limpo. Enquadre cabeça, pescoço e ombros. O rosto deve estar em três quartos voltado para a direita da imagem e inclinado para baixo, olhos delicadamente fechados ou abaixados, boca relaxada, expressão contemplativa. O coque aparece atrás da cabeça, à esquerda do rosto. Preserve o perfil suave do nariz, a mandíbula natural e o pescoço alongado. Use luz ampla e difusa frontal/lateral, sem sombras duras; paleta pérola e rosa natural muito claro, cabelo como principal contraste escuro. Acabamento fotográfico delicado, sem maquiagem evidente e sem aspecto oleoso. Dissolva suavemente os ombros no branco inferior. Mantenha a identidade da referência aprovada se anexada. Sem acessórios, texto, logotipos, mãos, objetos ou marca-d’água. Reserve o enquadramento completo para posterior crop no lado direito de um card; não desenhe o card nem o texto. Proporção final758×1024."
+  },
+  {
+    "id": "I06",
+    "name": "Retrato branco com cabeça elevada — cuidado prolongado",
+    "reference": "AFEMnkblR75GU9bwfRpmzlqBpQ__q6685a546.jpg",
+    "prompt": "Crie uma fotografia editorial vertical de skincare sobre fundo branco high-key, em proporção próxima de 3:4. Mulher claramente adulta de 25–35 anos, pele muito clara, cabelo castanho liso preso para trás num coque baixo, maquiagem quase invisível. Retrato do alto da cabeça até ombros e clavículas. Torso em três quartos, cabeça levemente inclinada para trás, queixo elevado e nariz apontando para a esquerda da imagem. Olhos suavemente fechados e lábios rosados relaxados. Preserve pescoço alongado e anatomia natural, com clavículas e ombros delicadamente iluminados. Luz de estúdio muito ampla e difusa, abundante preenchimento branco, baixo contraste e temperatura fria-neutra; pele pérola, sem brilho plástico. Faça a base dos ombros se fundir suavemente no fundo branco opaco. Mantenha os traços da referência aprovada se anexada, mas preserve a orientação para a esquerda deste pedido. Sem acessórios, objetos, texto, moldura ou marca-d’água. Entregue o busto inteiro para recorte posterior, na proporção774×1024."
+  },
+  {
+    "id": "I07",
+    "name": "Natureza-morta de plumas secas — artigo editorial",
+    "reference": "nJqFkXMmRiafaaCThCYlQSprSFk__qc3f29497.jpg",
+    "prompt": "Crie uma natureza-morta fotográfica minimalista para um editorial de bem-estar, em formato quadrado. Mostre um pequeno conjunto de hastes muito finas de gramíneas secas com plumas macias em bege-palha e creme. A pluma mais clara e nítida deve ficar na metade esquerda/centro, inclinada discretamente para a esquerda, com outras hastes altas e plumas mais desfocadas na metade direita e no fundo. Enquadre apenas hastes e plumas: não mostre vaso, mesa ou mãos. Use uma parede lisa cinza-gelo clara como fundo, atravessada por uma grande faixa diagonal de luz natural de janela e sombras suaves. Fotografia de close médio, profundidade de campo rasa, foco nas fibras da pluma dianteira, bokeh delicado, contraste baixo e saturação muito baixa. Atmosfera calma e arquitetônica, cores areia, marfim e cinza neutro, sem plantas verdes nem flores coloridas. Preserve espaço claro entre as hastes e margem para crop vertical posterior. Sem texto, moldura, objetos adicionais, logotipo ou marca-d’água. Gere um mestre quadrado de alta resolução; exportar 2048×2048 e derivar 1024×1024 da mesma imagem."
+  },
+  {
+    "id": "I08",
+    "name": "Close-up de rosto inclinado — hidratação",
+    "reference": "0WVX1KMgVFBEAviv4zQhKVw8rgk__qc3f29497.jpg",
+    "prompt": "Crie um close-up fotográfico editorial de hidratação da pele em formato quadrado. Mulher claramente adulta de 25–35 anos, pele clara e luminosa, cabelo castanho escuro com aparência ligeiramente úmida e penteado para trás. Rosto em três quartos voltado para a esquerda da imagem, cabeça inclinada para baixo, olho próximo suavemente fechado ou abaixado. Enquadre o cabelo no alto, testa, nariz, lábios naturais e pescoço/ombro na metade direita inferior; mantenha o nariz e a boca inteiros dentro da área central para um crop horizontal posterior. Use iluminação natural high-key muito difusa de uma janela à esquerda, fundo branco-azulado quase sem detalhes e uma faixa vertical de cortina suave na esquerda. Pele com leve brilho de hidratação na testa e bochecha, textura muito fina e realista, sem gotas exageradas nem produto visível. Paleta de gelo, pérola e rosa-bege, baixo contraste, sombras suaves, lente de retrato sem distorção. Não inclua joias, maquiagem forte, frascos, texto, logo ou marca-d’água. Gere um único mestre quadrado de alta resolução e derive as versões2048 e 1024 sem mudar a pessoa."
+  },
+  {
+    "id": "I09",
+    "name": "Mulher de cabelo cacheado, fundo azul",
+    "reference": "POpTLGuLzTuWYxuEYrRGJD678__qb9231ed5.jpg",
+    "prompt": "Crie um retrato fotográfico quadrado para avatar de um site de bem-estar. Mostre uma mulher claramente adulta de 25–35 anos, pele de tom médio-claro, cabelo preto curto e densamente cacheado, perfil de três quartos voltado à esquerda da imagem, queixo discretamente elevado e olhar dirigido para o alto à esquerda; top cinza claro com decote simples e ombros visíveis; fundo de estúdio azul acinzentado uniforme, luz lateral suave da esquerda destacando testa e nariz, cabelo escuro bem definido. Componha a cabeça no centro, com pescoço e parte superior dos ombros, deixando margem suficiente para um recorte circular posterior sem cortar olhos ou queixo. Mantenha a pessoa claramente adulta e a anatomia natural. Use fotografia editorial informal, textura de pele realista, nitidez suave no rosto e fundo simples; preserve a paleta específica descrita, sem aplicar o fundo branco dos retratos principais. Se o avatar de referência estiver anexado, siga sua composição e direção do olhar. Não inclua outras pessoas, texto, moldura circular desenhada, logotipo ou marca-d’água. Gere um mestre quadrado nítido; a aplicação final será44 pixels, por isso a expressão e a silhueta precisam permanecer legíveis em miniatura."
+  },
+  {
+    "id": "I10",
+    "name": "Homem de óculos, fundo mostarda",
+    "reference": "aLd0GlWVHywVWuurCk8JtAWSPw__qb28827a7.jpg",
+    "prompt": "Crie um retrato fotográfico quadrado para avatar de um site de bem-estar. Mostre um homem claramente adulto de 25–40 anos, cabelo castanho escuro curto penteado para cima e para trás, barba cheia curta e bem aparada, óculos de grau pretos com armação grossa e formato levemente arredondado; olhando frontalmente para a câmera com expressão neutra, camiseta preta lisa; fundo amarelo-mostarda quente e uniforme, luz frontal suave, contraste moderado e textura natural. Componha a cabeça no centro, com pescoço e parte superior dos ombros, deixando margem suficiente para um recorte circular posterior sem cortar olhos ou queixo. Mantenha a pessoa claramente adulta e a anatomia natural. Use fotografia editorial informal, textura de pele realista, nitidez suave no rosto e fundo simples; preserve a paleta específica descrita, sem aplicar o fundo branco dos retratos principais. Se o avatar de referência estiver anexado, siga sua composição e direção do olhar. Não inclua outras pessoas, texto, moldura circular desenhada, logotipo ou marca-d’água. Gere um mestre quadrado nítido; a aplicação final será44 pixels, por isso a expressão e a silhueta precisam permanecer legíveis em miniatura."
+  },
+  {
+    "id": "I11",
+    "name": "Mulher de óculos, fundo terracota",
+    "reference": "PH9MBoozXCDuSg7Zw0ksQExNo__qb28827a7.jpg",
+    "prompt": "Crie um retrato fotográfico quadrado para avatar de um site de bem-estar. Mostre uma mulher claramente adulta de 25–35 anos, cabelo loiro-escuro ou castanho-claro ondulado até os ombros, óculos de armação fina arredondada, sorriso discreto e natural e cabeça levemente inclinada; blusa branca simples, enquadramento de cabeça e ombros; fundo de parede terracota avermelhado com textura muito suave e luz lateral quente e difusa, clima acolhedor sem pose publicitária exagerada. Componha a cabeça no centro, com pescoço e parte superior dos ombros, deixando margem suficiente para um recorte circular posterior sem cortar olhos ou queixo. Mantenha a pessoa claramente adulta e a anatomia natural. Use fotografia editorial informal, textura de pele realista, nitidez suave no rosto e fundo simples; preserve a paleta específica descrita, sem aplicar o fundo branco dos retratos principais. Se o avatar de referência estiver anexado, siga sua composição e direção do olhar. Não inclua outras pessoas, texto, moldura circular desenhada, logotipo ou marca-d’água. Gere um mestre quadrado nítido; a aplicação final será44 pixels, por isso a expressão e a silhueta precisam permanecer legíveis em miniatura."
+  },
+  {
+    "id": "I12",
+    "name": "Homem de óculos escuros ao ar livre",
+    "reference": "duZSo1YDta06usFuc3EkJTiRdM__qb28827a7.jpg",
+    "prompt": "Crie um retrato fotográfico quadrado para avatar de um site de bem-estar. Mostre um homem claramente adulto de 25–40 anos, cabelo castanho curto ondulado, barba cheia e óculos de sol escuros redondos; rosto em três quartos apontando para a esquerda da imagem, olhar além da câmera, expressão tranquila; camiseta ou camisa escura simples e um colar fino discreto; ambiente externo desfocado, fundo azul-esverdeado claro com bokeh e contraluz de fim de tarde dourado no cabelo e na barba, aparência espontânea e fotográfica. Componha a cabeça no centro, com pescoço e parte superior dos ombros, deixando margem suficiente para um recorte circular posterior sem cortar olhos ou queixo. Mantenha a pessoa claramente adulta e a anatomia natural. Use fotografia editorial informal, textura de pele realista, nitidez suave no rosto e fundo simples; preserve a paleta específica descrita, sem aplicar o fundo branco dos retratos principais. Se o avatar de referência estiver anexado, siga sua composição e direção do olhar. Não inclua outras pessoas, texto, moldura circular desenhada, logotipo ou marca-d’água. Gere um mestre quadrado nítido; a aplicação final será44 pixels, por isso a expressão e a silhueta precisam permanecer legíveis em miniatura."
+  },
+  {
+    "id": "I13",
+    "name": "Mulher de cabelo escuro, fundo amarelo",
+    "reference": "ES6IJ8JiS4iNVkDK38fQhwjZDr4__qb28827a7.jpg",
+    "prompt": "Crie um retrato fotográfico quadrado para avatar de um site de bem-estar. Mostre uma mulher claramente adulta de 25–35 anos, cabelo castanho escuro longo solto com risca natural, olhos claros verde-acinzentados, rosto frontal olhando diretamente para a câmera e expressão serena sem sorriso amplo; top escuro de alças finas no recorte dos ombros; fundo amarelo-mostarda quente e uniforme, luz natural lateral suave com gradação de sombra de um lado do rosto, textura de pele realista e contraste moderado. Componha a cabeça no centro, com pescoço e parte superior dos ombros, deixando margem suficiente para um recorte circular posterior sem cortar olhos ou queixo. Mantenha a pessoa claramente adulta e a anatomia natural. Use fotografia editorial informal, textura de pele realista, nitidez suave no rosto e fundo simples; preserve a paleta específica descrita, sem aplicar o fundo branco dos retratos principais. Se o avatar de referência estiver anexado, siga sua composição e direção do olhar. Não inclua outras pessoas, texto, moldura circular desenhada, logotipo ou marca-d’água. Gere um mestre quadrado nítido; a aplicação final será44 pixels, por isso a expressão e a silhueta precisam permanecer legíveis em miniatura."
+  },
+  {
+    "id": "I14",
+    "name": "Miniatura promocional de outro template",
+    "reference": "zKYk3xaySEc43cUDiQTIdQsugwU__q885e406b.jpg",
+    "prompt": "Crie uma miniatura promocional de um website corporativo, em proporção4:3, com estética de mockup de página. Fundo externo em gradiente azul-petróleo suave; no centro, um painel de website retangular com cantos discretamente arredondados, sombra suave e fundo teal escuro. Na metade esquerda do painel, escreva em tipografia sans-serif muito pesada e branca, em duas linhas grandes: “NOW” e “IT’S A PLAN.”. Inclua apenas pequenos acentos coral/vermelho ao redor das chamadas e uma faixa discreta de navegação no topo. Na metade direita, mostre dois profissionais adultos de perfil em um encontro cordial: homem de cabelo escuro à esquerda e mulher de cabelo escuro à direita, roupas sociais escuras, em um aperto de mãos. Mantenha acabamento de apresentação de template, com profundidade suave e boa leitura em miniatura. Não inclua a interface do navegador nem logotipos adicionais. Use a miniatura de referência se anexada para preservar a hierarquia e o enquadramento. Alvo512×384. Para correspondência exata da tipografia, a imagem final deve ser composta manualmente a partir do layout, não depender apenas da geração."
+  },
+  {
+    "id": "I15",
+    "name": "Apple touch icon — t branca sobre azul",
+    "reference": "FovUcCMKMP12nR1uhOYL6c8pKi0.png",
+    "prompt": "Crie um ícone gráfico plano quadrado, sem efeito3D, sobre fundo azul pervinca claro uniforme. Desenhe uma única letra “t” branca, sans-serif, com haste vertical larga, travessão horizontal simples e terminação inferior arredondada, muito grande e deslocada para a direita, próxima ao corte da borda direita. Preserve amplo espaço azul à esquerda. Sem contorno, sombra, textura, gradiente, outras letras, logotipo adicional ou moldura. Use a imagem de referência para a geometria exata caso anexada. Entregue uma composição quadrada adequada para exportação180×180. Este é um esboço raster; para fidelidade absoluta, usar o PNG original."
+  },
+  {
+    "id": "I16",
+    "name": "Favicon — t preta sobre azul",
+    "reference": "WT1fXZXGqa7Qd4EpaVBU6nft0.png",
+    "prompt": "Crie um favicon gráfico plano quadrado com fundo azul pervinca claro e cantos arredondados, deixando transparência real fora dos cantos. Sobre ele, desenhe uma única letra “t” preta, sans-serif pesada, grande e alinhada mais à direita, com haste vertical simples, travessão horizontal e curva suave na terminação inferior. Mantenha espaço azul na metade esquerda e boa leitura em miniatura. Sem sombra, textura, gradiente, contorno, outras letras ou marca-d’água. Use o favicon anexado como referência geométrica se disponível. Produza um mestre quadrado limpo para exportar 64×64,32×32e16×16 sem perder o canal alfa. Para reprodução exata, conservar o PNG original."
+  },
+  {
+    "id": "I17",
+    "name": "Chevron esquerdo do carrossel",
+    "reference": "6tTbkXggWgQCAJ4DO2QEdXXmgM.svg",
+    "prompt": "Crie somente um símbolo de chevron apontando para a esquerda, centralizado num canvas quadrado totalmente transparente, sem círculo nem fundo. O desenho deve ser uma linha branca uniforme com pontas e junções arredondadas, sem preenchimento. Geometria desejada em um canvas 40×40: partir de 22.5,12.5, seguir até15,20 e terminar em 22.5,27.5; espessura2 unidades. Não adicionar sombra, textura, texto ou outros símbolos. Se o gerador produzir raster, use alta resolução e reduza para 40×40 preservando alfa. Para a entrega exata em SVG, usar o path original informado no inventário."
+  },
+  {
+    "id": "I18",
+    "name": "Chevron direito do carrossel",
+    "reference": "11KSGbIZoRSg4pjdnUoif6MKHI.svg",
+    "prompt": "Crie somente um símbolo de chevron apontando para a direita, centralizado num canvas quadrado totalmente transparente, sem círculo nem fundo. Desenhe uma linha branca uniforme com pontas e junções arredondadas, sem preenchimento. Em um canvas 40×40, a linha deve partir de 17.5,12.5, seguir até25,20 e terminar em 17.5,27.5, com espessura2 unidades. Preserve simetria com o chevron esquerdo da coleção. Sem sombra, textura, texto, moldura ou outros símbolos. Se a saída for raster, gere em alta resolução e reduza preservando alfa; para exatidão geométrica, reutilize o SVG original."
+  },
+  {
+    "id": "I19",
+    "name": "Máscara alfa dos avatars — círculo com recorte côncavo",
+    "reference": "9O8sLldl6mV9miUVjkyrhGJsZ7c__q8307f77b.svg",
+    "prompt": "Crie uma máscara gráfica plana para sobreposição de avatars, em canvas vertical de proporção40:48, com fundo completamente transparente e uma única forma cinza opaca#D9D9D9. A forma deve parecer um disco circular de 48 unidades de diâmetro centrado em 24,24, mas com a lateral direita removida por uma concavidade circular que acomoda o próximo disco à direita. Preserve o arco convexo externo esquerdo, o topo em 24,0 e a base em 24,48; a borda côncava direita conecta aproximadamente40,6.112a40,41.887e alcança seu ponto mais à esquerda perto de 32,24. Não adicionar borda, sombra, textura, rosto, texto ou marca-d’água. O objetivo é uma máscara alfa uniforme, não uma imagem decorativa. Para geometria perfeita, usar diretamente o SVG original em CSS mask."
+  }
+]
